@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Suyash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning developer</h3>
 
 - 🔭 I’m currently doing Research **Forensic Photo-Sketch matching**
 
