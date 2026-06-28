@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Panther animation -->
-<img src="https://raw.githubusercontent.com/Suyash-28-commits/Suyash-28-commits/main/panther.svg" alt="panther" width="420"/>
+<!-- Pixel panther animation -->
+<img src="https://raw.githubusercontent.com/Suyash-28-commits/Suyash-28-commits/main/panther.svg" alt="panther" width="680" height="160"/>
 
 <h1>Hey, I'm Suyash Das 👋</h1>
 <h3>AI Engineer · DevOps · Full-Stack · Computer Vision Researcher</h3>
